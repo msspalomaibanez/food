@@ -11,7 +11,10 @@ const SearchBar = () => {
 
 const styles = StyleSheet.create({
     background: {
-        backgroundColor: '#C4C4C4'
+        backgroundColor: '#C4C4C4',
+        height: 50,
+        borderRadius: 5,
+        marginHorizontal: 15
     }
 });
 
